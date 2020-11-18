@@ -6,7 +6,7 @@
 - This repo is maintained by 오서영, 조지수, 이윤녕, 정유은  
 
 ## Process  
-#### **1**. Calculating and Visualizing SoH with 7 Li-ion battery datasets | [[Code]](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/1_Calculation_and_Visulaliztion_of_SoH/Calculation_and_Visualization_of_SoH.ipynb)  
+#### **1**. Calculating and Visualizing SoH with 7 Li-ion battery datasets | [[Code]](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/1_Calculation_and_Visulaliztion_of_SoH)  
 
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/1_Calculation_and_Visulaliztion_of_SoH/fig/SoH_B05.jpg?raw=True" width="48%">
