@@ -6,3 +6,8 @@
 
 ## Process
 #### **1**. Calculating and Visualizing SoH with  | [[Code]]()  
+
+## Dataset  
+```
+[1] NASA Prognostic Center: Experiments on Li-ion Batteries, https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/ 
+```
