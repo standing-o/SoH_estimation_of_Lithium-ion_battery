@@ -33,6 +33,7 @@
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/50%25/fig/B05_LSTM.jpg?raw=True" width="48%">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/50%25/fig/B47_LSTM.jpg?raw=True" width="48%"> <br>
 </div>  
+
 - Start at 70% Cycle
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/70%25/fig/B05_LSTM.jpg?raw=True" width="48%">
