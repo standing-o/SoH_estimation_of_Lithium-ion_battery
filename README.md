@@ -1,6 +1,6 @@
 # SoH estimation of Lithium-ion battery (20201101 ~ )
 - This project is designed to predict State of health (SoH) for identifying remaining useful life of Li-ion batteries.
-- Linear Regression, Vanilla RNN, LSTM  
+- Linear Regression, LSTM  
 
 ### Project for the Industrial Mathematics & Lab Course
 - This repo is maintained by 오서영, 조지수, 이윤녕, 정유은  
@@ -41,7 +41,8 @@
 </div>  
 
 ## Results
-
+### 1. RMSE
+### 2. MAE
 
 ## Dataset  
 ```
