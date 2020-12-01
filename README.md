@@ -24,36 +24,36 @@
 
 #### **3**. Linear Regression | [[Code]](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/SoH_estimation_with_Linear_Regression.m)  
 
-- Start at 50% Cycle
+- Start at **50%** Cycle
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/fig/50%25/B05_Linear.jpg?raw=True" width="48%">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/fig/50%25/B47_Linear.jpg?raw=True" width="48%"> <br>
 </div>  
 
-- Start at 70% Cycle
+- Start at **70%** Cycle
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/fig/70%25/B05_Linear.jpg?raw=True" width="48%">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/fig/70%25/B47_Linear.jpg?raw=True" width="48%"> <br>
 </div>  
 
 #### **4**. Long Short Term Memory | [[Code]](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/SoH_estimation_with_LSTM.ipynb)
-- Start at 50% Cycle
+- Start at **50%** Cycle
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/50%25/fig/B05_LSTM.jpg?raw=True" width="48%">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/50%25/fig/B47_LSTM.jpg?raw=True" width="48%"> <br>
 </div>  
 
-- Start at 70% Cycle
+- Start at **70%** Cycle
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/70%25/fig/B05_LSTM.jpg?raw=True" width="48%">
 <img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/70%25/fig/B47_LSTM.jpg?raw=True" width="48%"> <br>
 </div>  
 
 ## Results
-### 1. RMSE
-### 2. MAE
+<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/Results.jpg?raw=True" width="100%">
 
 ## Dataset  
+
 ```
 [1] NASA Prognostic Center: Experiments on Li-ion Batteries, https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/ 
 ```
