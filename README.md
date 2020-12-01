@@ -2,6 +2,7 @@
 - This project is designed to predict State of health (SoH) for identifying remaining useful life of Li-ion batteries.
 - Linear Regression, LSTM  
 
+[[Plan
 ### Project for the Industrial Mathematics & Lab Course
 - This repo is maintained by 오서영, 조지수, 이윤녕, 정유은  
 
@@ -22,9 +23,16 @@
 
 #### **3**. Linear Regression | [[Code]](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/SoH_estimation_with_Linear_Regression.m)  
 
+- Start at 50% Cycle
 <div align="center">
-<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/fig/B05_Linear.jpg?raw=True" width="48%">
-<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/fig/B47_Linear.jpg?raw=True" width="48%"> <br>
+<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/50%25/fig/B05_LSTM.jpg?raw=True" width="48%">
+<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/50%25/fig/B47_LSTM.jpg?raw=True" width="48%"> <br>
+</div>  
+
+- Start at 70% Cycle
+<div align="center">
+<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/70%25/fig/B05_LSTM.jpg?raw=True" width="48%">
+<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/3_Linear_Regresssion_with_SoH/70%25/fig/B47_LSTM.jpg?raw=True" width="48%"> <br>
 </div>  
 
 #### **4**. Long Short Term Memory | [[Code]](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/4_LSTM_with_SoH/SoH_estimation_with_LSTM.ipynb)
