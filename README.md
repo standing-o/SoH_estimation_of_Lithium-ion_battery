@@ -1,4 +1,4 @@
-# SoH estimation of Lithium-ion battery (20201101 ~ )
+# SoH estimation of Lithium-ion battery (20201101 ~ 20201201)
 - This project is designed to predict State of health (SoH) for identifying remaining useful life of Li-ion batteries.
 - Linear Regression, LSTM  
 
