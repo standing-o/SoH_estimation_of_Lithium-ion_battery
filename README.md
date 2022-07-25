@@ -51,7 +51,7 @@
 </div>  
 
 ## Results
-<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/Results.jpg?raw=True" width="100%">
+<img src="https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/Results.jpg" width="100%">
 
 ## Dataset  
 
