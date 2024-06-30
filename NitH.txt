@@ -1,0 +1,3 @@
+Which parameters were selected to predict the soh and why they ?
+--> the parameters selected to predict soh include 1.SOH , 2.Cycle count , 3.Capacity
+
